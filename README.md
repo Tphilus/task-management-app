@@ -2,7 +2,7 @@
 
 This is a **Task Management App** built with **React**, **Vite**, and **TypeScript**. The app uses **ShadCN UI** components, **Tailwind CSS** for styling, and leverages **Context API** and **localStorage** for state management and data persistence. The interface allows users to create, view, edit, and delete tasks with options to mark them as important.
 
-![Task Management App Screenshot](./path-to-screenshot.png)
+
 ![image](https://github.com/user-attachments/assets/d4adb971-324c-4f39-ad78-c1b9718a88ca)
 ![image](https://github.com/user-attachments/assets/385809a5-9230-414e-97f7-4e8814aedfda)
 ![image](https://github.com/user-attachments/assets/33da4bda-4153-4bf4-b518-5330a99d5e6e)
